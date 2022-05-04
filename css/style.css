@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+    
+    body {
+    background-color: rgb(146, 216, 239);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+header {
+    background-color: rgb(21, 158, 203);
+    text-align: center;
+    font-size: xx-large;
+    color: white;
+    padding: 20px;
+    height: 90px;
+}
+
+main {
+    color: rgb(74, 48, 0);
+    height: calc(100vh - 170px);
+    font-size: xx-large;
+    padding: 40px;
+
+}
+
+footer {
+    background-color: rgb(21, 158, 203);
+    text-align: right;
+    color: white;
+    padding: 30px;
+    height: 80px;
+}
