@@ -31,7 +31,7 @@ if (guestage<=18) {
     console.log("Prezzo finale: " + discunder + " €");
 
 }
-else if (guestage>=60) {
+else if (guestage>=65) {
     discover=discover.toFixed(2);
 
     document.getElementById("finalcostoutput").innerHTML=discover + " €.";
